@@ -1,0 +1,1 @@
+give @a minecart:map 20
