@@ -1,0 +1,2 @@
+# item_modifier-exploration_map
+item_modifierの1項目であるexploration_mapに関するサンプルになります。
