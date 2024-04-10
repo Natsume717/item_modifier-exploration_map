@@ -1,8 +1,0 @@
-{
-  "function": "minecraft:exploration_map",
-  "destination": "minecraft:village",
-  "decoration": "red_x",
-  "zoom": 1,
-  "search_radius": 50,
-  "skip_existing_chunks": true
-}
