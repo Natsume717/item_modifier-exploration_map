@@ -15,4 +15,13 @@ item_modifierの1項目であるexploration_mapに関するサンプルになり
 /item modify entity @s weapon.mainhand sample:exploration_map
 ```
 
+---
+
+lootコマンドでルートテーブルから地図を付与させる場合でも、exploration_mapを適用させることは可能です。<br>
+それを体験できるコマンドは、以下の通り。
+
+```copy
+/loot give @s loot sample:exploration_map
+```
+
 ※本データパックでは、村を探すようにしており、その位置には赤いバツ印になるようにしています。
