@@ -1,8 +1,7 @@
 # item_modifier-exploration_map
 item_modifierの1項目であるexploration_mapに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】exploration_mapで地図に建造物を記載【item_modifier】](https://natsumake.com/item_modifier-exploration_map/)』を参考にしてください。
 
 <h3>概要</h3>
 白紙の地図に対して適用させることで、指示した建造物の場所を示す地図に変更させることが出来ます。
